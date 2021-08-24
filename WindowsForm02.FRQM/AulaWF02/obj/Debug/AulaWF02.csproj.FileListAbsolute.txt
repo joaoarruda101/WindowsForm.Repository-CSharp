@@ -1,0 +1,14 @@
+C:\Users\victor.schmitt\source\repos\AulaWF02\bin\Debug\AulaWF02.exe.config
+C:\Users\victor.schmitt\source\repos\AulaWF02\bin\Debug\AulaWF02.exe
+C:\Users\victor.schmitt\source\repos\AulaWF02\bin\Debug\AulaWF02.pdb
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.csprojAssemblyReference.cache
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Exec02.resources
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Form1.resources
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Properties.Resources.resources
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.csproj.GenerateResource.cache
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.exe
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.pdb
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Saque.resources
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Deposito.resources
+C:\Users\victor.schmitt\source\repos\AulaWF02\obj\Debug\AulaWF02.Contas.resources
